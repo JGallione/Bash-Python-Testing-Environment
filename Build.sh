@@ -87,6 +87,8 @@ package_exist(){
 
 sleep 1
 package_exist selenium
+package_exist pygame
+package_exist pygame_gui
 package_exist webdriver-manager
 package_exist absl-py
 package_exist nltk
