@@ -1,7 +1,7 @@
 import time
 
 import selenium
-import webdriver-manager
+import webdriver_manager
 import absl
 import nltk
 import numpy
