@@ -36,4 +36,5 @@ done
 #once logically reaching here the script will clear the terminal and exit
 sleep 2
 clear
+deactivate ProjectEnv/bin/activate 
 exit 1

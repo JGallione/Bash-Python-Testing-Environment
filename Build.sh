@@ -58,6 +58,8 @@ printf "	-nltk\n"
 printf "	-pandas\n"
 printf "	-jupyter\n"
 printf "	-matplotlib\n"
+printf "	-tfds-nightly\n"
+printf "	-tensorflow-hub\n"
 read -r -p  "		Are You Sure? [Y/n] " input
 
 #user consent
@@ -86,6 +88,8 @@ package_exist(){
 }
 
 sleep 1
+package_exist tensorflow-hub
+package_exist tfds-nightly
 package_exist selenium
 package_exist pygame
 package_exist pygame_gui
@@ -157,4 +161,5 @@ done
 #once logically reaching here the script will clear the terminal and exit
 sleep 2
 clear
+deactivate ProjectEnv/bin/activate
 exit 1

@@ -1,5 +1,7 @@
 import time
 
+import tensorflow_hub
+import tensorflow_datasets
 import selenium
 import webdriver_manager
 import absl
