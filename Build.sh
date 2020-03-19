@@ -88,6 +88,7 @@ package_exist(){
 }
 
 sleep 1
+package_exist heroku
 package_exist tensorflow-hub
 package_exist tfds-nightly
 package_exist selenium
