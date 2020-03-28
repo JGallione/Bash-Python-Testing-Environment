@@ -18,6 +18,8 @@ train_examples_batch, train_labels_batch = next(iter(train_data.batch(10)))
 print (train_examples_batch)
 print (train_labels_batch)
 
+
+
 print ("hello")
 
 Service_Ticket = input ("Enter Ticket:")
@@ -31,4 +33,9 @@ elif any(c in Service_Ticket for c in Adobe_Arr):
     print ("contains adobe")
 else:
     print ("does not contain key words: vpn or adobe")
+
+
+
+
+
 
