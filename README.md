@@ -1,5 +1,5 @@
 ## Setup Testing Env
-![image](https://www.thesaurus.com/e/wp-content/uploads/2020/12/20201209_comma_1000x700.png)
+![image](https://www.gnu.org/graphics/heckert_gnu.transp.small.png)
 
 Open terminal and locate folder holding files
 
