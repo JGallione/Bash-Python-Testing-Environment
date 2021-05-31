@@ -1,5 +1,5 @@
 ## Setup Testing Env
-![image](https://www.gnu.org/graphics/heckert_gnu.transp.small.png)
+![image](https://www.gnu.org/graphics/heckert_gnu.transp.small.png) ## Setup Testing Env
 
 Open terminal and locate folder holding files
 
