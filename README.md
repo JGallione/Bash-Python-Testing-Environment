@@ -1,6 +1,6 @@
 
 ![image](https://www.gnu.org/graphics/heckert_gnu.transp.small.png)
-## Setup Testing Env
+## Setup Testing Environment
 Open terminal and locate folder holding files
 
 ##Run Build.sh
